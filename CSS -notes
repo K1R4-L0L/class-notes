@@ -1,0 +1,233 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "3a074199-93f5-4297-a5f2-679f1b142f55",
+   "metadata": {},
+   "source": [
+    "# CSS Notes"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3fd72b0c-5a35-4eb7-b229-a5dca95989a1",
+   "metadata": {},
+   "source": [
+    "## 1. What is CSS?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5ca9d1e0-a69d-4bae-8caf-5bf2eb767348",
+   "metadata": {},
+   "source": [
+    " CSS (Cascading Style Sheets) is a language used to describe the presentation of a web page written in HTML. it controls the layour, colors, fonts, and overall visual appearance of the web pages"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0454df42-bc75-4866-98ff-eaaf6652bd4d",
+   "metadata": {},
+   "source": [
+    "### CSS Syntax"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "48a10a37-2b74-4b1a-a5b6-ef8c1cc322ba",
+   "metadata": {},
+   "source": [
+    "#### A CSS rule consists of a selector and a declaration block:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4f4f6aa8-33de-4ab3-955c-b6b075e18ef8",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8bcc17a1-d24f-4ad0-a1f3-6cc67f0b3e76",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b0fec69b-7e3e-4ae0-ba57-ce2b1085c6da",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b5e32250-d6af-4aa0-a901-8d3732c12924",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ab096801-aa46-4d6b-94ab-580bd27c3a6c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "aff57e81-07fc-47e6-9211-160b70179304",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6da686ae-d874-4003-bdc0-51fb6c2d05e0",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fff55991-778c-427f-8027-19a027b21e75",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4d392040-2f7e-4cd4-a141-de28fb02efad",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ed344d30-a1eb-4a99-90fb-3d62c6e1a5ee",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4ed2605b-b85e-491c-8e5e-49867fed40c1",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "322496be-64be-4773-a0a6-be5bb965d2b7",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "cdd084f0-148f-4e36-bd87-d52c27add732",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "70d44042-a8da-456b-92b7-fb54e3ba2157",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e0b6c9d3-cd6a-43ef-abc9-71b11b89bc43",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7c31d87b-90b3-4104-8cfb-7c60fd72305a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7f4216f3-2e82-40e7-be22-6a09772ebc9d",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e36f3ef4-1a8a-48a1-9d3f-d8aea4740c73",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d0e5f08e-2bdc-4ca4-b5bd-fd3186692a66",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "eda99fad-95e3-4b2c-b3ec-7bff1cdd772a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f9196dc7-22f0-47c8-b497-fa88c7862e4c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
